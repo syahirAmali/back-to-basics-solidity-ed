@@ -1,4 +1,4 @@
-Based on : https://solidity-by-example.org/ 
+Based on : https://solidity-by-example.org/, changes and additional content will be gradually added
 
 # Basic Sample Hardhat Project
 
