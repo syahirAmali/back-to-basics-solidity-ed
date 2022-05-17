@@ -1,6 +1,10 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.10;
 
+/// @title ERC20 
+/// @author solidity by example
+/// @notice A basic template for erc20 tokens
+
 // https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.0.0/contracts/token/ERC20/IERC20.sol
 interface IERC20 {
     function totalSupply() external view returns (uint);
