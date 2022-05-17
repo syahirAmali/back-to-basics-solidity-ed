@@ -5,7 +5,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Imports
-/// @author syahir amali
+/// @author solidity by example
 /// @notice ways to import in solidity
 /// @notice files can be imported locally and externally in solidity
 

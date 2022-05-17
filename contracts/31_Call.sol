@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title solidity call
-/// @author syahir amali
+/// @author solidity by example
 /// @notice call is a low level function to interact with other contracts
 /// @notice this is the reccomended method to use when youre just sending ether via calling the fallback function
 /// @notice not the reccomended way to call existing functions

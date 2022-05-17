@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Sending Ether (transfer, send, call)
-/// @author syahir amali
+/// @author solidity by example
 /// @notice ether can be sent with, transfer (2300 gas, throws error), send (2300 gas, returns bool), call (forwards all gas or set gas, returns bool)
 /// @notice ether can be reiceved with receive() external payable, fallback() external payables
 /// @notice receive() is called if msg.data is empty, otherwise fallback() is called.

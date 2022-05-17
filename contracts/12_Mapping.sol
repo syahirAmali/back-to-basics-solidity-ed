@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title solidity mapping
-/// @author syahir amali
+/// @author solidity by example
 /// @notice created with the syntax mapping(keyType => valueType);
 /// @notice the keyType can be any built-in value type, bytes, string, or any contract
 /// @notice valueType can be any type including another mapping or an array

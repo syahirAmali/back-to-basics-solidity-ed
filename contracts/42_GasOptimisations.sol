@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Gas optimization
-/// @author syahir amali
+/// @author solidity by example
 /// @notice gas saving techniques
 /// @notice replacing memory with calldata
 /// @notice loading state variable to memory

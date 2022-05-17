@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title either and wei
-/// @author syahir amali
+/// @author solidity by example
 /// @notice a simple look at either and wei
 contract EtherUnits {
     /// @notice transactions are paid in ether or the chain native token, this is usually done in wei

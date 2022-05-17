@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title solidity Constants
-/// @author syahir amali
+/// @author solidity by example
 /// @notice a look at solidity constants
 contract Constant {
     /// @notice constant variables cannot be modified

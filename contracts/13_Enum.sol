@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Solidity enums
-/// @author syahir amali
+/// @author solidity by example
 /// @notice Enums are used to model choice, and keep track of state
 /// @notice can be declared outside of a contract
 contract Enum {

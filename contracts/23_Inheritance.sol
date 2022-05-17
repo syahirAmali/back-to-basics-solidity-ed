@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Solidity Inheritance
-/// @author syahir amali
+/// @author solidity by example
 /// @notice solidity supports multiple inheritance, 'is' keyword is used to inherit other contracts
 /// @notice function that is going to be overriden by a child contract must be declared as virtual
 /// @notice function thats is going to override a parent functio must use the keyword override

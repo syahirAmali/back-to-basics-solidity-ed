@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Solidity interface
-/// @author syahir amali
+/// @author solidity by example
 /// @notice you can interact with other contracts by declaring an interface
 /// @notice - cannot have any functions implemented
 /// @notice - can inherit from other interfaces

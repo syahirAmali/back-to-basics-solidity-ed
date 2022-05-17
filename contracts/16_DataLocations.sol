@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Solidity data locations
-/// @author syahir amali
+/// @author solidity by example
 /// @notice variables in solidity are declared as either storage, memory, or calldata. 
 /// @notice storage - is a state variable; stored on the blockchain
 /// @notice memory - exists while a function is being called

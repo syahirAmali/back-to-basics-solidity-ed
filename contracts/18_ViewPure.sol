@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Solidity View and Pure Fucntions
-/// @author syahir Amali
+/// @author solidity by example
 /// @notice getters can be either view or pure
 /// @notice view - no state will be changed
 /// @notice pure - no state variable will be read or changed

@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Read and writing to a state variable
-/// @author syahir amali
+/// @author solidity by example
 /// @notice a look at how read and write is done
 contract SimpleStorage {
     /// @notice to write and update a state on the blockchain a transaction is required

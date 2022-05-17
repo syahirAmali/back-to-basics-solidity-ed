@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Solidity Libraries
-/// @author syahir amali
+/// @author solidity by example
 /// @notice Are similar to contracts but can't declare any state variables, and cant send ether
 /// @notice are embedded into the contract if all library functions are internal
 /// @notice otherwise the library must be deployed and then linked before the contract is deployed

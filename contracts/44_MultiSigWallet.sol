@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title MultiSigWallet
-/// @author syahir amali
+/// @author solidity by example
 /// @notice wallet owners can
 /// @notice - submit a trx
 /// @notice - approve and revoke the approval of pending trx

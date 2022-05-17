@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title DelegateCall
-/// @author syahir amali
+/// @author solidity by example
 /// @notice delegatecall is a low level function similar to call
 /// @notice When contract A executes delegatecall to contract B, B's code is executed
 /// @notice with contract A's storage, msg.sender and msg.value.

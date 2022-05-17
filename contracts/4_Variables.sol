@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Solidity variable types
-/// @author Syahir Amali
+/// @author solidity by example
 /// @notice A look at the variable types of solidity
 contract Variables {
 

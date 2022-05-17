@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title calling parent contracts
-/// @author syahir amali
+/// @author solidity by example
 /// @notice by calling the keyword super, all of the immediate parent contracts will be called
 
 /* Inheritance tree

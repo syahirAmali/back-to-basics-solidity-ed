@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Functions modifier
-/// @author syahir amali
+/// @author solidity by example
 /// @notice can be made to run before/after a function call
 /// @notice can be used to - restrict access, validate iputs, guard against reentrancy hacks
 contract FunctionModifier {

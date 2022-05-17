@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Solidity functions
-/// @author syahir amali
+/// @author solidity by example
 /// @notice a look at solidity functions
 /// @notice several ways to return outputs
 /// @notice public functions cannot accept certain data types as inputs or outputs

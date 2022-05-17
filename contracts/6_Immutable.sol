@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Solidity immutable
-/// @author syahir amali
+/// @author solidity by example
 /// @notice A look at immutable variables
 contract Immutable {
     /// @notice are much like constants

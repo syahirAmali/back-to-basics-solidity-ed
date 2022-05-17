@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Abi Decode
-/// @author syahir amali
+/// @author solidity by example
 /// @notice abi.encode encodes data into bytes
 /// @notice abi.decode decodes bytes back into data
 

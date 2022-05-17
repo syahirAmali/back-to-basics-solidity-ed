@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Solidity fallback
-/// @author syahir amali
+/// @author solidity by example
 /// @notice fallback is a function that does not take any arguments and does not return anything
 /// @notice it is executed when a function that does not exist is called or, ether is sent directly to a contract but receive() does not exist or msg.data is not empty
 /// @notice fall back has a 2300 gas limit when called by transfer or send

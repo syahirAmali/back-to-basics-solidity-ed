@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Hashing with Keccak256
-/// @author syahir amali
+/// @author solidity by example
 /// @notice comcputes the keccak-256 hash of the input
 /// @notice can be used for - creating deterministic unique id from an input, commit-reveal scheme, compact cryptography signature(by signing the hash instead of a larger input)
 

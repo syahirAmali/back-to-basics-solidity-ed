@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Solidity Errors
-/// @author syahir amali
+/// @author solidity by example
 /// @notice an error can be thrown with, require, revert, and assert
 /// @notice require - used to validate inputs and conditions before execution
 /// @notice revert - similar to require

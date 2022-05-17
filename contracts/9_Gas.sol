@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Solidity gas
-/// @author syahir amali
+/// @author solidity by example
 /// @notice A look at how gas works for solidity
 /// @notice user pays in ether based on
 /// @notice gas spent * gas price

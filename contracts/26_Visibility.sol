@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title solidity visibility
-/// @author syahir amali
+/// @author solidity by example
 /// @notice functions and state variables have to declare whether they are accessible by other contracts
 /// @notice - public - any contract and account can call
 /// @notice - private - only insde the contract that deines the function

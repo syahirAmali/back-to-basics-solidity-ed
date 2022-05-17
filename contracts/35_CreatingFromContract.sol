@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Contract that creates other contracts
-/// @author syahir amali
+/// @author solidity by example
 /// @notice contracts can be create by other contracts using the new keyword
 /// @notice since 0.8.0, new keyword supports create2 feature by specifying the salt options
 /// @notice salt is random data that is used as an additional input to a one-way function that hashes data, a password or passphrase

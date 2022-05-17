@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Solidity Function Selector
-/// @author syahir amali
+/// @author solidity by example
 /// @notice when a function is called, the first 4 bytes of calldata specifies which function to call
 /// @notice this 4 bytes is called a function selector
 /// @notice ex. addr.call(abi.encodeWithSignature("transfer(address,uint256)", 0xSomeAddress, 123))

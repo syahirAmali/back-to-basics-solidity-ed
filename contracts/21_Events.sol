@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Solidity events
-/// @author syahir amali
+/// @author solidity by example
 /// @notice a look at solidity events
 /// @notice enables logging on to the ethereum chain
 /// @notice can be used too listen to events and updates the user interface, cheap form of storage

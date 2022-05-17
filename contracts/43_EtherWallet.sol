@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Basic Ether Wallet Contract
-/// @author syahir amali
+/// @author solidity by example
 /// @notice - anyone can send Eth, only the owner can withdraw
 contract EtherWallet {
     address payable public owner;

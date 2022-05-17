@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Loops, for, while, and do while
-/// @author syahir amali
+/// @author solidity by example
 /// @notice a look at loops in solidity
 /// @notice dont write unbounded loops, this can cause you to hit your gas limit, and have the transaction fail
 /// @notice because of this while, and do while loops are rarely used

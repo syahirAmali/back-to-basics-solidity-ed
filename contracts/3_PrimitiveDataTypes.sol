@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Primitive data types of solidity
-/// @author Syahir Amali
+/// @author solidity by example
 /// @notice A look at primitive data types of solidity
 contract PrimitiveDataType {
     bool public boo = true;

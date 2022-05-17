@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Solidity try and catch
-/// @author syahir amali
+/// @author solidity by example
 /// @notice try / catch can only catch errrs from external function calls and contract creation
 
 // External contract used for try / catch examples

@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title shadowing inherited state variables
-/// @author syahir amali
+/// @author solidity by example
 /// @notice state variables cannot be overridden by re-declaring it in the child component
 contract A {
     string public name = "Contract A";

@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title A cimple contract to increment and decrement a count store on the contract
-/// @author Syahir Amali
+/// @author solidity by example
 /// @notice A contract for practice and getting back to the basics
 contract Counter {
     uint public count;

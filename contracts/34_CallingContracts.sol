@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Calling Other Contracts
-/// @author syahir amali
+/// @author solidity by example
 /// @notice contracts can call other contracts with two ways
 /// @notice - A.foo(x, y, z)
 /// @notice - low level call, not recommended

@@ -2,7 +2,7 @@
 pragma solidity ^0.8.10;
 
 /// @title Solidity structs
-/// @author syahir amali
+/// @author solidity by example
 /// @notice Structs are essentially solidity types
 /// @notice is useful for grouping related data
 /// @notice can be imported from outside of the contract
